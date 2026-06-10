@@ -11,23 +11,6 @@
         "expirydate": "30-06-2026",
         "Allowoffline": false
     },
-{
-        "device_id": "0f334a5ec388efa2",
-        "key": "key67890",
-        "expirydate": "10-07-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "0f334a5ec388efa2",
-        "key": "key67890",
-        "expirydate": "10-07-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "0f334a5ec388efa2",
-        "key": "key67890",
-        "expirydate": "10-07-2026",
-        "Allowoffline": false
-    }
+
 
 ]
