@@ -5,18 +5,13 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
-{
-        "device_id": "40e647a307523973",
+    {
+        "device_id": "device456",
         "key": "key67890",
-        "expirydate": "30-06-2026",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-{
-        "device_id": "0f334a5ec388efa2",
-        "key": "key67890",
-        "expirydate": "10-07-2026",
-        "Allowoffline": false
-    },
+    }
+]
 
 
 ]
